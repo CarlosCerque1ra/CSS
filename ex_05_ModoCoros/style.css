@@ -1,0 +1,30 @@
+/* alterando cor por nome */
+.nome{
+    color: orange;
+}
+
+/* Alterando cor por Hexadecimal */
+.hexadecimal{
+    color: #a83232;
+}
+
+/* Alterando cor por RGBA */
+.RGBA{
+    color: rgba(168, 50, 50, 0.37);
+}
+
+/* Alterando a segunda pagina */
+.div-background{
+    background-image: url(civic.jpg);
+    height: 200px;
+}
+
+h1{
+    color:blue;
+    background-color: black;
+}
+ .div-background{
+    background-image: url(civic.jpg);
+    height: px;
+
+ }
