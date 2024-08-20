@@ -1,7 +1,9 @@
 #Primeiro contato com CSS 😁😁😁
 
 *Arqiuvo CSS externo
+
 *Arquivo CSS interno
+
 *Arquivo CSS inline 
 
 
