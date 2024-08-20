@@ -1,3 +1,14 @@
+/* A primeira palavra define onde você esta editanto, uzando CSS exter */
 h1{
     color:blue
+}
+
+h2{
+    color: crimson;
+    font-size: 100px;  /*font-size mexe no tamanho da imagem*/
+}
+
+p{
+    color: darkblue;
+    font-size: 20px;
 }
