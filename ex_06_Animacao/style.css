@@ -59,6 +59,7 @@
     background-color: rgb(110, 35, 210);
     animation-name: animacao4;
     animation-duration: 5s;
+    /* "animatio-interation-count" se trata da quantidade de vezes que ira ser repetido a animação */
     animation-iteration-count: 3;
     position: relative;
 }
