@@ -8,6 +8,8 @@
 
 *Formas de cores CSS
 
+*Animações em CSS
+
 
 
 
