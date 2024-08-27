@@ -14,6 +14,10 @@
 
 *Position Static
 
+*Position Relative
+
+*Position Absolute
+
 
 
 
