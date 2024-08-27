@@ -1,0 +1,26 @@
+body{
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* Telas */
+
+/* Tamanho de Desktop: Mínimo 1024px */
+@media screen and (min-width:1024px){
+    h1{font-size: 48px; color: brown;}
+    p{font-size: 24px;}
+    }
+
+/* Tamanho médio de Tablet: Tablet minimo 768px e maximo 1023px */
+    @media (min-width:768px) and (max-width:1023px){
+        h1{font-size:24px; color: darkred;}
+        p{ font-size: 12px;}
+        body{background-color: aqua;}
+        
+    }
+
+    /* Tamanho médio de mobile: maximo 767px */
+    @media (max-width:767px){
+        h1{font-size: 12px; color: rgb(75, 75, 75);}
+        p{font-size: 6px;}
+        }
+    
