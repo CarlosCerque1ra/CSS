@@ -1,0 +1,34 @@
+.position{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border: 5px solid green;
+}
+
+.static{
+    position: static;
+}
+
+/* Relative, meche na tela. */
+.relative{
+    position: relative;
+    background-color: blue;
+    top: 10px;
+    left: 20px;
+}
+
+.absolute{
+    position: absolute;
+    background-color: rgb(255, 0, 0);
+    top: 0;
+    right: 0;
+}
+
+.mini-div{
+    width: 20px;
+    height: 20px;
+    top: 0;
+    left: 0;
+    
+}
