@@ -12,11 +12,7 @@
 
 *Bordas, Padding e Margin
 
-*Position Static
-
-*Position Relative
-
-*Position Absolute
+*Position (Static, Relative, Absolute, Sticky, Fixed)
 
 
 
