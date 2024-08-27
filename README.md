@@ -12,6 +12,8 @@
 
 *Bordas, Padding e Margin
 
+*Position Static
+
 
 
 
