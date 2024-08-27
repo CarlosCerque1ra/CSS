@@ -1,0 +1,22 @@
+body{
+  /* margin muda o tamanho da margem  */
+    margin: 0px;
+}
+
+.boxmodel{
+   /* "Margin" delimita a margem */
+    margin: 30px;
+    /* Width e Height meche no tamanho da caixa */
+    width: 200px;
+    height: 200px;
+    /* musa a cor */
+    background-color: rgb(115, 115, 115);
+    /* Pading é a primeira  */
+    padding: 30px 30px;
+    border: 3px solid black;
+    border-left-color: blue;
+    /* "border-radius" Define o arrendondamento das quinas */
+    border-radius: 10%;
+
+
+}
