@@ -1,0 +1,19 @@
+.position{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border: 5px solid green;
+}
+
+.static{
+    position: static;
+}
+
+/* Relative, meche na tela */
+.relative{
+    position: relative;
+    background-color: blue;
+    top: 10px;
+    left: 20px;
+}
